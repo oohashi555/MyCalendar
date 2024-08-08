@@ -1,4 +1,4 @@
-package com.example.myCalendar;
+package com.mycalendar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
